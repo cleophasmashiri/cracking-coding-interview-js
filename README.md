@@ -13,7 +13,7 @@ node filename.js
 
 ```
 
-Some of the examples do not have test, you can simply add one as:
+Some of the examples do not have a test, you can simply add one as:
 ```
   // assume i have function like below.
   const doSomething = (inputData) => {
